@@ -17,6 +17,7 @@
 
 #define USE_CALLBACKS
 
+#include <WiFiUdp.h>
 #include "esphome.h"
 #include "esphome/components/select/select.h"
 #include "esphome/core/preferences.h"
